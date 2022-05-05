@@ -22,7 +22,9 @@ export default function Home(){
     <p> David is a fullstack developer and data science enthusiast based in Mombasa with a passion of building stuff.He likes keeping my hands dirty when solving problems with code.When not online,he's your friendly neighbourhood Spiderman.</p>
    
 </div>
-<button className="port_btn">Portfolio</button>
+<button onClick={()=>{
+        window.location ="/portfolio"
+    }} className="port_btn">Portfolio</button>
 <div className="Bio">
     <h3>Bio</h3>
     <div className="dash"></div>
