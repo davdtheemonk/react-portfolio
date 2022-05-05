@@ -1,0 +1,64 @@
+.projects{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    overflow: hidden;
+    overflow-x: scroll;
+    justify-content: center;
+    
+    margin-top: 50px;
+    gap: 10px;
+
+}
+.home_blog2{
+    width: 350px;
+    height: 220px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.home_btn{
+    width: 120px;
+    height: 25px;
+    margin-left: 95px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    border: none;
+    background-color: #242336;
+    letter-spacing: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 35px;
+
+}
+.project_card:hover,.home_btn:hover{
+  
+    box-shadow: 0px 0px 1px 1px gray;
+
+}
+.project_card{
+    
+    overflow:hidden;
+    cursor: pointer;
+    background-color: #242336;
+    color: white;
+    letter-spacing: 3px;
+    width: 350px ;
+    text-align: center;
+    border-radius: 5px;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height:400px ;
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (max-width:768px) {
+    .projects{
+        height: auto;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+}

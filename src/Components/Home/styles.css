@@ -1,0 +1,174 @@
+.home_cont{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+ 
+    
+    height: auto;
+    background-color: #1E1C26;
+}
+
+.home_hello>p{
+    font-size: 17px;
+    color: aliceblue;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.social-img{
+    width: 50px;
+    height:50px;
+    cursor: pointer;
+}
+.Bio{
+    color: aliceblue;
+    display: flex;
+    width: 450px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.socials{
+    margin-left: right;
+    width: 200px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.det_box{
+    display: flex;
+    color: aliceblue;
+    letter-spacing: 3px;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.dash{
+    background-color: #4c4b61;
+    width: 50px;
+    height: 5px;
+    border-radius: 30px;
+}
+.det_dets{
+    margin-left: 50px;
+}
+.home__cont{
+    margin: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+}
+.home_info>h3{
+    color: white;
+    font-size: 30px;
+    letter-spacing: 3px;
+
+}
+.home_info>p{
+    color: aliceblue;
+    
+}
+.Work>h3,.Work>p{
+    color: aliceblue;
+    letter-spacing: 3px;
+
+
+
+}
+
+.port_btn{
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    border-radius: 30px;
+    border: none;
+    width: 120px;
+    height: 30px;
+    background-color: #242336;
+    box-shadow: 0px 0px 1px 1px gray;
+}
+.read{
+    color: aliceblue;
+    align-items: center;
+    border-radius: 15px;
+    background-color: #242336;
+    display: flex;
+    cursor: pointer;
+    width: 400px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+   
+    flex-direction: column;
+}
+.read:hover{
+    box-shadow: 0px 0px 1px 1px gainsboro;
+}
+.footer{
+    color: gray;
+    letter-spacing: 3px;
+}
+.more_home{
+ color: white;
+ letter-spacing: 3px;;
+}
+.read>p{
+    letter-spacing: 3px;
+}
+.blog_btn{
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 30px;
+    border: none;
+    width: 120px;
+    height: 30px;
+    background-color: #242336;
+    box-shadow: 0px 0px 1px 1px gray;
+
+}
+.home_blog{
+    width: 150px;
+    height: 100px;
+    border-radius: 5px;
+
+}
+.Work{
+    display: flex;
+    width: 450px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.home_info{
+    display: flex;
+    width: 450px;
+    flex-direction: column;
+    align-items: flex-start;
+
+}
+.interests{
+    color: aliceblue;
+    letter-spacing: 3px;
+    
+}
+.interests>h3{
+    color: white;
+}
+.home_hello{
+    background-color: #242336;
+    width: 450px;
+   
+    
+    border-radius: 5px;
+
+
+
+}
+.home_donuts{
+    width: 300px;
+    margin-bottom: 20px;
+    height: 200px;
+    
+}
