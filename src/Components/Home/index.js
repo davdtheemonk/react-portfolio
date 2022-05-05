@@ -10,7 +10,7 @@ export default function Home(){
                 
                 <img src="/pic2.gif" className="home_donuts"/>
 <div className="home_hello">
-    <p>Hello,I'm a fullstack developer from Kenya</p>
+    <p>👋Hello,I'm a fullstack developer from Kenya</p>
 </div>
 <div className="home_info">
     <h3>David Mugalla</h3>
