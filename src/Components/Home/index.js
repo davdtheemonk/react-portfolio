@@ -19,7 +19,7 @@ export default function Home(){
 <div className="Work">
     <h3>Work</h3>
     <div className="dash"></div>
-    <p> David is a fullstack developer and data science enthusiast based in Mombasa with a passion of building stuff.He likes keeping my hands dirty when solving problems with code.When not online,he's your friendly neighbourhood Spiderman.</p>
+    <p> David is a fullstack developer and data science enthusiast based in Mombasa with a passion of building stuff.He likes keeping his hands dirty when solving problems with code.When not online,he's your friendly neighbourhood Spiderman.</p>
    
 </div>
 <button onClick={()=>{
