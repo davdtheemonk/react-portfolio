@@ -40,7 +40,7 @@ export default function Home(){
     </div>
 
 <div className="interests">
-    <h3>I</h3>
+    <h3>I❤️🚀</h3>
     <div className="dash"></div>
    
     <p>Reading,Photography,Nature walks,Machine Learning,Code code code</p>
