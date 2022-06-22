@@ -66,7 +66,7 @@ export default function Home(){
 <p className="more_home">More</p>
 <div className="dash"></div>
 <div className="read" onClick={()=>{
-    window.open("https://what-the-bug.tk")
+    window.open("https://what-the-bug.ml")
 }}>
 <p>What the bug blog</p>
 
