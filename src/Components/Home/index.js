@@ -10,17 +10,17 @@ export default function Home(){
                 
                 <img src="/pic2.gif" className="home_donuts"/>
 <div className="home_hello">
-    <p>👋Hello,I'm a fullstack developer from Kenya</p>
+    <p>👋Hello,I'm David,a fullstack developer from Kenya</p>
 </div>
 <div className="home_info">
     <h3>David Mugalla</h3>
-    <p>Developer/CS student</p>
+    <p>Software Developer</p>
+       
 </div>
 <div className="Work">
     <h3>Work</h3>
     <div className="dash"></div>
-    <p> David is a fullstack developer and data science enthusiast based in Mombasa with a passion for building stuff.He likes keeping his hands dirty when solving problems with code.When he is not online,he's your friendly neighbourhood Spiderman.</p>
-   
+<p>I build tools using React,React-Native,MongoDB,Node.js or Python</p> 
 </div>
 <button onClick={()=>{
         window.location ="/portfolio"
@@ -28,18 +28,16 @@ export default function Home(){
 <div className="Bio">
     <h3>Bio</h3>
     <div className="dash"></div>
-    <div className="det_box">
-    <p className="det_year">20__</p>
-    <p className="det_dets">Born in Mombasa,Kenya</p>
-    </div>
+ 
 <div className="det_box">
     <p className="det_year">2020</p>
     <p className="det_dets">Started Bachelor of science in Computer Science at Kabarak University</p>
     </div>
-    <div className="det_box">
+<div className="det_box">
     <p className="det_year">2021</p>
-    <p className="det_dets">Joined the Avengers</p>
+    <p className="det_dets">Started Freelancing</p>
     </div>
+  
 
 <div className="interests">
     <h3>I❤️🚀</h3>
