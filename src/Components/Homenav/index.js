@@ -10,7 +10,7 @@ export default function Homenav(){
             <div className="temp_ul">
           
                 <ul><a href="/portfolio">portfolio</a></ul>
-                <ul><a href="https://what-the-bug.tk">blog</a></ul>
+                <ul><a href="https://what-the-bug.ml">blog</a></ul>
           
             </div>
             </div>
