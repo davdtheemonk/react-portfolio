@@ -29,10 +29,7 @@ export default function Home(){
     <h3>Bio</h3>
     <div className="dash"></div>
  
-<div className="det_box">
-    <p className="det_year">2020</p>
-    <p className="det_dets">Started Bachelor of science in Computer Science at Kabarak University</p>
-    </div>
+
 <div className="det_box">
     <p className="det_year">2021</p>
     <p className="det_dets">Started Freelancing</p>
