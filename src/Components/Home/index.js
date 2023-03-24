@@ -37,6 +37,10 @@ export default function Home(){
     <p className="det_year">2021</p>
     <p className="det_dets">Started Freelancing</p>
     </div>
+  <div className="det_box">
+    <p className="det_year">12/2021</p>
+    <p className="det_dets">Joined Dupla-AI</p>
+    </div>
   
 
 <div className="interests">
